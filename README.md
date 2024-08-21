@@ -25,12 +25,13 @@ Use the generate_art() function to create new art pieces.
 To use the generated art in p5.js, use the export_to_p5js() function and copy the output into your p5.js sketch.
 
 Example Output
-[Insert a sample image of generated art here]
-Future Improvements
+[Pending]
 
-Implement more diverse art styles
-Add user controls for art generation parameters
-Create a web interface for easy art generation
+**Future Improvements**
+
+- Implement more diverse art styles
+- Add user controls for art generation parameters
+- Create a web interface for easy art generation
 
 **Contributing**
 Contributions to improve the AI Art Generator are welcome. Please feel free to submit a Pull Request.
@@ -39,5 +40,5 @@ Contributions to improve the AI Art Generator are welcome. Please feel free to s
 This project is open source and available under the MIT License.
 
 Contact
-Your Name - maylinelovesart@gmail.com
+Mayline - maylinelovesart@gmail.com
 Project Link: https://github.com/yourusername/ai-art-generator
